@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<HTML>
+  <h1> Job portal Form</h1>
+  
+  <label> Candidate Name</label>
+  <input type="text">
+  <br> <br>
+  <label> Date of Birth</label>
+  <input  type="date">
+  <br>
+  <br>
+  <label for="degree">Highest Degree:</label>
+  <select name="Degree" id="Degree">
+  
+  
+<option value="MBA">MBA</option>
+<option value="M.TECH">M.TECH</option>
+<option value="B.TECH">B.TECH</option>
+<option value="BCA">BCA</option>
+</select>
+
+</HTML>
