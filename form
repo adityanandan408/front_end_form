@@ -18,5 +18,20 @@
 <option value="B.TECH">B.TECH</option>
 <option value="BCA">BCA</option>
 </select>
+ <br> <br>
+
+<label> University/ College </label>
+  <input type="text">
+  <br> <br>
+
+
+<label for="Skills">Skills:</label>
+
+<select name="Skills" id="Skills" multiple>
+  <option value="Excel">Excel</option>
+  <option value="java">java</option>
+  <option value="mysql">mYSQL</option>
+  <option value="Salesforce/SAP">Salesforce/SAP</option>
+</select>
 
 </HTML>
