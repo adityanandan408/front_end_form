@@ -34,4 +34,17 @@
   <option value="Salesforce/SAP">Salesforce/SAP</option>
 </select>
 
+<br> <br>
+<label for="Apply">Job Apply for:</label>
+  <select name="Apply" id="Apply">
+  
+  
+<option value="DATA ANALYS">DATA ANALYS</option>
+<option value="SOFTWARE ENG LEVEL 1">SOFTWARE ENG LEVEL 1</option>
+<option value="Salesforce ADMIN">Salesforce ADMIN</option>
+<option value="CRM-SAP">CRM-SAP</option>
+</select>
+ <br> <br>
+
+
 </HTML>
