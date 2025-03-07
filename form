@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <HTML>
-  <h1> Job portal Form</h1>
+  <h1> Job Portal Form</h1>
   
   <label> Candidate Name</label>
   <input type="text">
@@ -44,7 +44,16 @@
 <option value="Salesforce ADMIN">Salesforce ADMIN</option>
 <option value="CRM-SAP">CRM-SAP</option>
 </select>
+<BR> <br>
+
+<label> ADHARCARD NUMBER : </label>
+<input type ="NUMBER">
+
+
  <br> <br>
+ 
+ 
+ <label>   </label>
 
 
 </HTML>
