@@ -1,9 +1,33 @@
 <!DOCTYPE html>
 <HTML>
+  
+  <style>
+    h1{
+      background-color: lightgreen;
+    }
+    
+    body{
+      background-color: pink;
+    }
+    
+    div{
+      border-style: solid;
+    }
+  </style>
   <h1> Job Portal Form</h1>
   
+  
+  
+  <body>
+    
+    
+     
+    <div>
+      
+      <br> 
   <label> Candidate Name</label>
   <input type="text">
+  
   <br> <br>
   <label> Date of Birth</label>
   <input  type="date">
@@ -21,6 +45,9 @@
  <br> <br>
 
 <label> University/ College </label>
+  <input type="text">
+  <br> <br>
+  <label> Currently employed </label>
   <input type="text">
   <br> <br>
 
@@ -52,8 +79,23 @@
 
  <br> <br>
  
+ <label value ="exp"> Exprience :</label>
+ <select name="exp">
+   
+   <option value="Fresher">Fresher</option>
+   <option value="1 Year">1 year</option>
+   <option value="2 years"> 2 years</option>
+   <option value="3 years"> 3 years</option>
+   
+ </select>
  
  <label>   </label>
+ 
+ 
+ </body>
+ 
+ <br> <br>
+ </div>
 
 
 </HTML>
