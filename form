@@ -90,8 +90,13 @@
  </select>
  
  <label>   </label>
+ <br> <br>
+ 
+  <label for="myfile">Select a file: Resume</label>
+<input type="file" id="myfile" name="myfile"> 
  
  
+ <br>
  </body>
  
  <br> <br>
